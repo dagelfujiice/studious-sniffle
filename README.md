@@ -5,6 +5,8 @@ Name:	Đá gel giữ lạnh Fuji Ice
 Tel:	0968191568
 Email:	thu.hx@fujiice.vn
 Description:	Fuji Ice là nhà cung cấp đá gel và giải pháp kiểm soát nhiệt độ thụ động hàng đầu Việt Nam. Đá gel giữ lạnh để vận chuyển sản phẩm thực phẩm,  vacxin, hàng hoá nhạy cảm với nhiệt độ.
+Website	https://fujiice.vn/
+	https://fujiice.vn/da-gel/
 https://x.com/dagelfujiice
 https://www.facebook.com/dagelfujiice
 https://linkedin.com/company/dagelfujiice
